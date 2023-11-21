@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "Hash": "yoAMJ+b2C7el6aTDfedG8LXdHSIPjI3FRYt605ko2WY=",
+  "Source": "DailyPoetryH.Library",
+  "BasePath": "_content/DailyPoetryH.Library",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "DailyPoetryH.Library\\wwwroot",
+      "Source": "DailyPoetryH.Library",
+      "ContentRoot": "E:\\oneDrive\\OneDrive - zhujiangxueyuan\\company\\stduy\\my\\DailyPoetryH\\DailyPoetryH.Library\\wwwroot\\",
+      "BasePath": "_content/DailyPoetryH.Library",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "E:\\oneDrive\\OneDrive - zhujiangxueyuan\\company\\stduy\\my\\DailyPoetryH\\DailyPoetryH.Library\\obj\\Debug\\net7.0\\scopedcss\\bundle\\DailyPoetryH.Library.styles.css",
+      "SourceId": "DailyPoetryH.Library",
+      "SourceType": "Computed",
+      "ContentRoot": "E:\\oneDrive\\OneDrive - zhujiangxueyuan\\company\\stduy\\my\\DailyPoetryH\\DailyPoetryH.Library\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/DailyPoetryH.Library",
+      "RelativePath": "DailyPoetryH.Library.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "E:\\oneDrive\\OneDrive - zhujiangxueyuan\\company\\stduy\\my\\DailyPoetryH\\DailyPoetryH.Library\\obj\\Debug\\net7.0\\scopedcss\\bundle\\DailyPoetryH.Library.styles.css"
+    },
+    {
+      "Identity": "E:\\oneDrive\\OneDrive - zhujiangxueyuan\\company\\stduy\\my\\DailyPoetryH\\DailyPoetryH.Library\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\DailyPoetryH.Library.bundle.scp.css",
+      "SourceId": "DailyPoetryH.Library",
+      "SourceType": "Computed",
+      "ContentRoot": "E:\\oneDrive\\OneDrive - zhujiangxueyuan\\company\\stduy\\my\\DailyPoetryH\\DailyPoetryH.Library\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/DailyPoetryH.Library",
+      "RelativePath": "DailyPoetryH.Library.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "E:\\oneDrive\\OneDrive - zhujiangxueyuan\\company\\stduy\\my\\DailyPoetryH\\DailyPoetryH.Library\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\DailyPoetryH.Library.bundle.scp.css"
+    },
+    {
+      "Identity": "E:\\oneDrive\\OneDrive - zhujiangxueyuan\\company\\stduy\\my\\DailyPoetryH\\DailyPoetryH.Library\\wwwroot\\background.png",
+      "SourceId": "DailyPoetryH.Library",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\oneDrive\\OneDrive - zhujiangxueyuan\\company\\stduy\\my\\DailyPoetryH\\DailyPoetryH.Library\\wwwroot\\",
+      "BasePath": "_content/DailyPoetryH.Library",
+      "RelativePath": "background.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\background.png"
+    },
+    {
+      "Identity": "E:\\oneDrive\\OneDrive - zhujiangxueyuan\\company\\stduy\\my\\DailyPoetryH\\DailyPoetryH.Library\\wwwroot\\exampleJsInterop.js",
+      "SourceId": "DailyPoetryH.Library",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\oneDrive\\OneDrive - zhujiangxueyuan\\company\\stduy\\my\\DailyPoetryH\\DailyPoetryH.Library\\wwwroot\\",
+      "BasePath": "_content/DailyPoetryH.Library",
+      "RelativePath": "exampleJsInterop.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\exampleJsInterop.js"
+    }
+  ]
+}

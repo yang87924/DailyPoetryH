@@ -1,0 +1,35 @@
+{
+  "version": 2,
+  "dgSpecHash": "XKm6x+ZC7TiO+Jm9QpyQtPxTvJIWgalNBaHcVkZZEdO3USO0yCUt8dq2LWNcS1Xas+Jp+1EmrU+uEV2V4JtIPA==",
+  "success": true,
+  "projectFilePath": "D:\\onedrive\\OneDrive - zhujiangxueyuan\\company\\stduy\\my\\DailyPoetryH\\DailyPoetryH.Library\\DailyPoetryH.Library.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yang\\.nuget\\packages\\microsoft.aspnetcore.authorization\\7.0.13\\microsoft.aspnetcore.authorization.7.0.13.nupkg.sha512",
+    "C:\\Users\\yang\\.nuget\\packages\\microsoft.aspnetcore.components\\7.0.13\\microsoft.aspnetcore.components.7.0.13.nupkg.sha512",
+    "C:\\Users\\yang\\.nuget\\packages\\microsoft.aspnetcore.components.analyzers\\7.0.13\\microsoft.aspnetcore.components.analyzers.7.0.13.nupkg.sha512",
+    "C:\\Users\\yang\\.nuget\\packages\\microsoft.aspnetcore.components.forms\\7.0.13\\microsoft.aspnetcore.components.forms.7.0.13.nupkg.sha512",
+    "C:\\Users\\yang\\.nuget\\packages\\microsoft.aspnetcore.components.web\\7.0.13\\microsoft.aspnetcore.components.web.7.0.13.nupkg.sha512",
+    "C:\\Users\\yang\\.nuget\\packages\\microsoft.aspnetcore.metadata\\7.0.13\\microsoft.aspnetcore.metadata.7.0.13.nupkg.sha512",
+    "C:\\Users\\yang\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\yang\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\yang\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.1\\microsoft.extensions.logging.abstractions.7.0.1.nupkg.sha512",
+    "C:\\Users\\yang\\.nuget\\packages\\microsoft.extensions.options\\7.0.1\\microsoft.extensions.options.7.0.1.nupkg.sha512",
+    "C:\\Users\\yang\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\yang\\.nuget\\packages\\microsoft.jsinterop\\7.0.13\\microsoft.jsinterop.7.0.13.nupkg.sha512",
+    "C:\\Users\\yang\\.nuget\\packages\\sqlite-net-pcl\\1.8.116\\sqlite-net-pcl.1.8.116.nupkg.sha512",
+    "C:\\Users\\yang\\.nuget\\packages\\sqlitepclraw.bundle_green\\2.0.4\\sqlitepclraw.bundle_green.2.0.4.nupkg.sha512",
+    "C:\\Users\\yang\\.nuget\\packages\\sqlitepclraw.core\\2.1.6\\sqlitepclraw.core.2.1.6.nupkg.sha512",
+    "C:\\Users\\yang\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.0.4\\sqlitepclraw.lib.e_sqlite3.2.0.4.nupkg.sha512",
+    "C:\\Users\\yang\\.nuget\\packages\\sqlitepclraw.provider.dynamic_cdecl\\2.1.6\\sqlitepclraw.provider.dynamic_cdecl.2.1.6.nupkg.sha512",
+    "C:\\Users\\yang\\.nuget\\packages\\system.io.pipelines\\7.0.0\\system.io.pipelines.7.0.0.nupkg.sha512",
+    "C:\\Users\\yang\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "您正在使用 'HTTP' 來源 'http://reformtek:33000/api/packages/ABP.Framework/nuget/index.json' 執行 'restore' 作業。未來的版本將移除非 HTTPS 存取。請考慮移轉至 'HTTPS' 來源。"
+    }
+  ]
+}
